@@ -1,5 +1,5 @@
 # Day to Day Life
-## Code Spotlight
+
 ![](img/Day_to_Day_Life.png)
 
 
